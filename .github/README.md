@@ -5,10 +5,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg">
+  <img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [STRING DAD](https://t.me/Devil_string_genratorbot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
