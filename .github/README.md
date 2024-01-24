@@ -11,15 +11,7 @@
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [STRING DAD](https://t.me/Devil_string_genratorbot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-<a href="https://github.com/PRADHAN474/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/PRADHAN474/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/PRADHAN474/StringGenBot/network/members"> <img src="https://img.shields.io/github/forks/PRADHAN474/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/PRADHAN474/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/PRADHAN474/StringGenBot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/PRADHAN474/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-</p>
 
-━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
